@@ -29,8 +29,8 @@ get_in_and_out.ipynb
 [Directories Tree](http://htmlpreview.github.io/?https://github.com/NLM-Reproducibility-Project/IBD-Network-Models-Reproduction/master/tree04.html)
 
 ```
-DirectoryNodes.csv
 DirectoryNodes_EEM-wPaths.ipynb
+├── DirectoryNodes.csv
 ├── NodeTypes_wPaths.csv
 
 red - scripts  
