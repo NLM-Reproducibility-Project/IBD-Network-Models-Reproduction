@@ -3,7 +3,10 @@ title: "NLMRepro_Fig2"
 output: html_document
 ---
 
-We have 2 supplemental tables that created Figure 2's circular heatmap (Supplemental Table 15 and 16). We know that they used an R package called NetWeaver.  With all the code they provided, they did not provide the code to produce this image. I am following along with the NetWeaver vignette example
+We have 2 supplemental tables that created Figure 2's circular heatmap (Supplemental Table 15 and 16).
+We know that they used an R package called NetWeaver.  With all the code they provided, they did not
+provide the code to produce this image. I am following along with the NetWeaver vignette example.
+I start with reading in the tables.
 ```{r}
 library(NetWeaver)
 library(knitr) #for netweaver
