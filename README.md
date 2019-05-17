@@ -36,3 +36,10 @@ Curating directory path
 Output
 
 * example.csv
+
+[Directories Tree](http://htmlpreview.github.io/?https://github.com/NLM-Reproducibility-Project/IBD-Network-Models-Reproduction/master/tree04.html)
+
+red - scripts  
+blue - ASCII data  
+green - Bin data  
+black - directories  
