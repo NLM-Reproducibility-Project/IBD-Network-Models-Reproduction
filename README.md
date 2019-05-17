@@ -16,7 +16,9 @@ DirectoryNodes_EEM-wPaths.ipynb
 ├── NodeTypes_wPaths.csv
 ```
 
-## Reproduce Supplementary Table 15/16 and reproduce Fig2
+## Reproducing figures
+
+Supplementary Table 15/16 and reproduce Fig2
 
 ```
 netweaver.Rmd
