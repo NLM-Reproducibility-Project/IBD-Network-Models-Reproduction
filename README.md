@@ -12,15 +12,27 @@ IBD-Repro_presentation.ipynb
 * NodeTypes_wPaths.csv
 	
 ## Trial 2
-Rmd attempt to reproduce Fig2. Created Fig2_repro.pdf
+Rmd attempt to reproduce Fig2
+
 * netweaver.Rmd 
-Attempt to recreate Fig 2 from Peters et al. 2017
+
+Attempt to recreate Fig 2 from Peters et al. 2017\
+
 * Fig2_repro.pdf
+
 Supplementary Table 15 from Peters et al. 2017
+
 * SupplTable15.csv
+
 Supplementary Table 15 from Peters et al. 2017
+
 * SupplTable16.csv
 	
 ## Trial 3
-* get_in_and_out.ipynb - curate directory path
-* example.csv - output of get_in_and_out
+Curating directory path
+
+* get_in_and_out.ipynb
+
+Output
+
+* example.csv
