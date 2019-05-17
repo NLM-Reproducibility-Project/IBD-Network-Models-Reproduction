@@ -9,4 +9,4 @@
 * example.csv
 * get_in_and_out.ipynb
 * netweaver.Rmd - Rmd attempt to reproduce Fig2. Created Fig2_repro.pdf
-* [Tree of data repo](tree03.html)
+* [Tree of data repo](http://htmlpreview.github.io/?https://github.com/NLM-Reproducibility-Project/IBD-Network-Models-Reproduction/master/tree03.html)
