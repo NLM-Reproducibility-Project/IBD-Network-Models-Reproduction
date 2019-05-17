@@ -1,7 +1,7 @@
 # May_2019_Repo5
 * DirectoryNodes.csv
 * DirectoryNodes_EEM-wPaths.ipynb
-* Fig2_repro.pdf
+* Fig2_repro.pdf - Attempt to recreate Fig 2 from Peters et al. 2017
 * IBD-Repro_presentation.ipynb
 * NodeTypes_wPaths.csv
 * SupplTable15.csv - Supplementary Table 15 from Peters et al. 2017
