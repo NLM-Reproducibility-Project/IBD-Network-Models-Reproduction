@@ -1,0 +1,110 @@
+---
+title: "NLMRepro_Fig2"
+output: html_document
+---
+
+We have 2 supplemental tables that created Figure 2's circular heatmap (Supplemental Table 15 and 16).
+We know that they used an R package called NetWeaver.  With all the code they provided, they did not
+provide the code to produce this image. I am following along with the NetWeaver vignette example.
+I start with reading in the tables.
+```{r}
+library(NetWeaver)
+library(knitr) #for netweaver
+
+knitr::opts_chunk$set(fig.width=10, fig.height=10, out.width="650px",
+    out.height="650px", dpi=300, fig.ext="png")
+getwd()
+
+#reading in files
+d16 <- read.csv("SupplTable16.csv", header = TRUE)
+d15 <- read.csv("SupplTable15.csv", header = TRUE)
+d15 <- d15[,1:2]
+
+#continuing with d16 as the data frame. I am missing 1 column, not sure what it is supposed to be.
+d16<- merge.data.frame(d16, d15, by.y = "gene_symbol", by.x = "names.r.")
+
+heatmapData <- data.frame(t(d16), stringsAsFactors = FALSE)
+colnames(heatmapData)=d16$names.r.
+
+```
+
+
+```{r}
+vcolors <- heat.colors(133)
+#functions and variables used later.
+track.border="#999999"
+track.color="white"
+colfuncBlue=colorRampPalette(c("white", "blue"))
+colfuncBrown=colorRampPalette(c("white", "brown"))
+colfuncHeat=function(n) rev(heat.colors(n))
+nCol=133
+```
+
+
+```{r}
+cyto <- data.frame(Chr=d16$names.r., Start=1, End=100, BandColor = "black", stringsAsFactors = FALSE)
+rc.initialize(cyto, num.tracks = 13, params=list(chr.padding=0.1))
+params=rc.get.params()
+#params
+rc.plot.area(size=0.9)
+chrom.alias=1:nrow(cyto)
+names(chrom.alias)=cyto$Chr
+rc.plot.ideogram(track.ids=1:2, plot.band=FALSE, plot.chromosome.id=TRUE, cex.text=0.5, chrom.alias=chrom.alias, track.border=NA, polygon.border=NA)
+#?rc.plot.heatmap
+
+#rc.plot.heatmap(heatmapData, 2, color.gradient=colfuncHeat(),
+#        track.color=track.color, track.border=track.border, polygon.border=NA)
+```
+
+
+
+Getting an error with NetWeaver. I'm pretty stuck.  This package is not very popular, so not too much information available online. I am going to retry to create the figure with ggplot instead.
+```{r}
+library(ggplot2)
+library(reshape2)
+library(plyr)  #for ddply
+library(scales) #for rescale
+
+d16$names.r. <- with(d16, reorder(names.r., final_rank))
+d16.m <- melt(d16)
+d16.m <- ddply(d16.m, .(variable), transform, value = scale(value))
+y_labels = levels(d16.m$variable)
+y_breaks = seq_along(y_labels) + 15
+
+d16.m$var2 = as.numeric(d16.m$variable) + 15
+```
+
+
+Labels
+```{r}
+d16.labs <- subset(d16.m, variable==levels(d16.m$variable)    [nlevels(d16.m$variable)])
+d16.labs <- d16.labs[order(d16.labs$names.r.),]
+d16.labs$ang <- seq(from=(360/nrow(d16.labs))/1.5, to=(1.5* (360/nrow(d16.labs)))-360, length.out=nrow(d16.labs))+80
+d16.labs$hjust <- -0.5
+d16.labs$hjust[which(d16.labs$ang < -90)] <- 1.5
+d16.labs$ang[which(d16.labs$ang < -90)] <- (180+d16.labs$ang)[which(d16.labs$ang < -90)]
+```
+
+Plotting
+```{r}
+ggplot(data= d16.m, aes(names.r., variable, fill = value)) + 
+  geom_tile(colour = "white") +
+  #scale_fill_gradient(low = "yellow", high = "red") +
+  scale_fill_gradient2(low = "white", mid = "yellow", high = "red") +
+  #ylim(c(0, max(d16.m$var2) + 1.5)) +
+  
+  #scale_y_continuous(breaks=y_breaks, labels=y_labels) +
+  geom_text(data=d16.labs, aes(x=d16.labs$names.r., y=d16.labs$variable , label = d16.labs$names.r.,
+                               angle = d16.labs$ang, hjust = d16.labs$hjust), size = 2) +
+  coord_polar(theta = "x") +
+  theme(panel.background=element_blank(),
+           axis.title=element_blank(),
+           panel.grid=element_blank(),
+           axis.text.x=element_blank(),
+           axis.ticks=element_blank(),
+           axis.text.y=element_blank())
+
+```
+
+
+
