@@ -54,7 +54,7 @@ DirectoryNodes_EEM-wPaths.ipynb
 ├── tree04.html
 ├── requirements.txt - for repotree.py
 ```  
-Visualization legend:  
+#### Visualization legend:  
 red - code  
 blue - data (ASCII)  
 green - data (binary)   
