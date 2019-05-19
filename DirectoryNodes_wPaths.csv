@@ -1,0 +1,327 @@
+PAPER_DATA,PAPER_DATA/Gene.expression.by.SNP.genotype,PAPER_DATA/IBD Networks,PAPER_DATA/IBD Datasets,PAPER_DATA/CERTIFI DNA,PAPER_DATA/Code
+PAPER_DATA/Gene.expression.by.SNP.genotype,PAPER_DATA/Gene.expression.by.SNP.genotype/CERTIFI,PAPER_DATA/Gene.expression.by.SNP.genotype/MSH,PAPER_DATA/Gene.expression.by.SNP.genotype/RISK,PAPER_DATA/Gene.expression.by.SNP.genotype/IBD.GPS_SNP_HLA.subtypes_coefficients_with_risk_allele_frequencies.xlsx,PAPER_DATA/Gene.expression.by.SNP.genotype/score_density.png
+PAPER_DATA/Gene.expression.by.SNP.genotype/IBD.GPS_SNP_HLA.subtypes_coefficients_with_risk_allele_frequencies.xlsx
+PAPER_DATA/Gene.expression.by.SNP.genotype/score_density.png
+PAPER_DATA/Gene.expression.by.SNP.genotype/CERTIFI,PAPER_DATA/Gene.expression.by.SNP.genotype/CERTIFI/genotype_EAF.xls,PAPER_DATA/Gene.expression.by.SNP.genotype/CERTIFI/stats.xls
+PAPER_DATA/Gene.expression.by.SNP.genotype/CERTIFI/genotype_EAF.xls
+PAPER_DATA/Gene.expression.by.SNP.genotype/CERTIFI/stats.xls
+PAPER_DATA/Gene.expression.by.SNP.genotype/MSH,PAPER_DATA/Gene.expression.by.SNP.genotype/MSH/genotype_EAF.xls,PAPER_DATA/Gene.expression.by.SNP.genotype/MSH/stats.xls
+PAPER_DATA/Gene.expression.by.SNP.genotype/MSH/genotype_EAF.xls
+PAPER_DATA/Gene.expression.by.SNP.genotype/MSH/stats.xls
+PAPER_DATA/Gene.expression.by.SNP.genotype/RISK,PAPER_DATA/Gene.expression.by.SNP.genotype/RISK/genotype_EAF.xls,PAPER_DATA/Gene.expression.by.SNP.genotype/RISK/stats.xls
+PAPER_DATA/Gene.expression.by.SNP.genotype/RISK/genotype_EAF.xls
+PAPER_DATA/Gene.expression.by.SNP.genotype/RISK/stats.xls
+PAPER_DATA/IBD Networks,PAPER_DATA/IBD Networks/Co-expressionnetworks,PAPER_DATA/IBD Networks/Bayesiannetworks
+PAPER_DATA/IBD Networks/Co-expressionnetworks,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules,PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment,PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis,PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment,PAPER_DATA/IBD Networks/Co-expressionnetworks/IBD_T26_expression_Module-Trait-Correlations
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_ileum_filtered-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_RISK-filtered-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_colon_filtered-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_RISK-filtered-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_ALL_MSH2_filtered-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_ALL_MSH2_filtered-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_T26-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_colon_filtered-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_ileum_filtered-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_T26-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_RISK-filtered-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_ALL_MSH2_filtered-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_colon_filtered-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_ileum_filtered-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_T26-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_colon_filtered-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_ileum_filtered-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_ALL_MSH2_filtered-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_T26-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_RISK-filtered-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_ileum_filtered-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_RISK-filtered-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_colon_filtered-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_RISK-filtered-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_ALL_MSH2_filtered-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_ALL_MSH2_filtered-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_T26-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_colon_filtered-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_ileum_filtered-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_T26-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_RISK-filtered-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_ALL_MSH2_filtered-vs-abc-cell-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_colon_filtered-vs-abc-tis-gpl570-signatures-filtered_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_ileum_filtered-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_T26-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_colon_filtered-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_MSH2_ileum_filtered-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_ALL_MSH2_filtered-vs-abc-tis-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_T26-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Celltype_Enrichment/intersect_RISK-filtered-vs-abc-cell-gpl570-signatures-lowent_pair-restricted.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_imgHierModLabeled.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_imgHierModules.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_imgHierClust.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_imgHierClust.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_imgHierModules.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_imgHeatmap.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_risk_FPKMexpressionValues_filtered_imgHierModLabeled.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_risk_FPKMexpressionValues_filtered_imgHierModules.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_T26_expression_imgHierModules.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_imgHierModLabeled.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_imgHierClust.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_tommodules.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_imgHeatmap.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_imgHierModLabeled.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_imgHierModules.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_tommodules.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_imgHeatmap.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_imgHierClust.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_imgHierClust.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_risk_FPKMexpressionValues_filtered_tommodules.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_imgHeatmap.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_imgHeatmap.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_tommodules.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_tommodules.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_imgHeatmap.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_imgHierModLabeled.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_risk_FPKMexpressionValues_filtered_imgHeatmap.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_T26_expression_tommodules.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_tommodules.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_imgHierModules.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_imgHierModLabeled.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_tommodules.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_imgHierClust.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_T26_expression_imgHierModLabeled.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_T26_expression_imgHeatmap.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_imgHierModLabeled.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_imgHierModules.png,PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_imgHierModules.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_imgHierModLabeled.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_imgHierModules.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_imgHierClust.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_imgHierClust.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_imgHierModules.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_imgHeatmap.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_risk_FPKMexpressionValues_filtered_imgHierModLabeled.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_risk_FPKMexpressionValues_filtered_imgHierModules.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_T26_expression_imgHierModules.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_imgHierModLabeled.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_imgHierClust.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_tommodules.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_imgHeatmap.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_imgHierModLabeled.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_imgHierModules.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_tommodules.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_imgHeatmap.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_imgHierClust.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_imgHierClust.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_risk_FPKMexpressionValues_filtered_tommodules.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_imgHeatmap.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_imgHeatmap.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_tommodules.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_tommodules.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_imgHeatmap.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_imgHierModLabeled.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_risk_FPKMexpressionValues_filtered_imgHeatmap.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_T26_expression_tommodules.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-ileum_tommodules.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-colon_imgHierModules.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex-Rgn_ALL_imgHierModLabeled.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_tommodules.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_imgHierClust.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_T26_expression_imgHierModLabeled.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/IBD_T26_expression_imgHeatmap.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_UC-colon_imgHierModLabeled.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CL-ileum_imgHierModules.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Release Modules/msbb-ibd_ucsc-clean-normed_GeneWManyZerosRemoved_Adj-Age-Sex_CD-colon_imgHierModules.png
+PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment,PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_risk_processed-expression-dataT_tommodules_Ontology.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_MSH2_ucsc-Clean_filtered_tommodules_Ontology.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_T26_expression_tommodules2_Ontology.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_MSH2_ucsc-Clean_ileum_filtered_tommodules_Ontology.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_MSH2_ucsc-Clean_colon_filtered_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_risk_processed-expression-dataT_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_MSH2_ucsc-Clean_filtered_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_T26_expression_tommodules2_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_MSH2_ucsc-Clean_ileum_filtered_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/MSigDB_Enrichment/IBD_MSH2_ucsc-Clean_colon_filtered_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis,PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_MSH2_ucsc-Clean_ileum_filtered_tommodules_OntologyTop10-sortByModule.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_MSH2_ucsc-Clean_colon_filtered_tommodules_OntologyTop10-sortByModule.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_MSH2_ucsc-Clean_filtered_tommodules_OntologyTop10-sortByModule.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_T26_expression_tommodules2_OntologyTop10-sortByModule.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_risk_FPKMexpressionValues_filtered_tommodules_OntologyTop10-sortByModule.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_MSH2_ucsc-Clean_ileum_filtered_tommodules_OntologyTop10-sortByModule.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_MSH2_ucsc-Clean_colon_filtered_tommodules_OntologyTop10-sortByModule.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_MSH2_ucsc-Clean_filtered_tommodules_OntologyTop10-sortByModule.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_T26_expression_tommodules2_OntologyTop10-sortByModule.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/Ontology Analysis/IBD_risk_FPKMexpressionValues_filtered_tommodules_OntologyTop10-sortByModule.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment,PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_risk_processed-expression-dataT_tommodules_Ontology.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_MSH2_ucsc-Clean_filtered_tommodules_Ontology.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_T26_expression_tommodules2_Ontology.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_MSH2_ucsc-Clean_ileum_filtered_tommodules_Ontology.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_MSH2_ucsc-Clean_colon_filtered_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_risk_processed-expression-dataT_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_MSH2_ucsc-Clean_filtered_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_T26_expression_tommodules2_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_MSH2_ucsc-Clean_ileum_filtered_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/GO_TermEnrichment/IBD_MSH2_ucsc-Clean_colon_filtered_tommodules_Ontology.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/IBD_T26_expression_Module-Trait-Correlations,PAPER_DATA/IBD Networks/Co-expressionnetworks/IBD_T26_expression_Module-Trait-Correlations/IBD_T26_expression_tommodules_aPC-GS-pval.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/IBD_T26_expression_Module-Trait-Correlations/IBD_T26_expression_tommodules_aPC-GS.xls,PAPER_DATA/IBD Networks/Co-expressionnetworks/IBD_T26_expression_Module-Trait-Correlations/IBD_T26_expression_tommodules_aPC-GS-fdr.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/IBD_T26_expression_Module-Trait-Correlations/IBD_T26_expression_tommodules_aPC-GS-pval.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/IBD_T26_expression_Module-Trait-Correlations/IBD_T26_expression_tommodules_aPC-GS.xls
+PAPER_DATA/IBD Networks/Co-expressionnetworks/IBD_T26_expression_Module-Trait-Correlations/IBD_T26_expression_tommodules_aPC-GS-fdr.xls
+PAPER_DATA/IBD Networks/Bayesiannetworks,PAPER_DATA/IBD Networks/Bayesiannetworks/revisedpediatricnetwork.cys,PAPER_DATA/IBD Networks/Bayesiannetworks/originalimmunenetwork.cys,PAPER_DATA/IBD Networks/Bayesiannetworks/revisedMSHadvancednetwork.cys,PAPER_DATA/IBD Networks/Bayesiannetworks/revisedCERTIFImodantiTNFrefractory.cys
+PAPER_DATA/IBD Networks/Bayesiannetworks/revisedpediatricnetwork.cys
+PAPER_DATA/IBD Networks/Bayesiannetworks/originalimmunenetwork.cys
+PAPER_DATA/IBD Networks/Bayesiannetworks/revisedMSHadvancednetwork.cys
+PAPER_DATA/IBD Networks/Bayesiannetworks/revisedCERTIFImodantiTNFrefractory.cys
+PAPER_DATA/IBD Datasets,PAPER_DATA/IBD Datasets/Gene expression by SNP genotype,PAPER_DATA/IBD Datasets/Macrophagesignatures,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures
+PAPER_DATA/IBD Datasets/Gene expression by SNP genotype,PAPER_DATA/IBD Datasets/Gene expression by SNP genotype/IBD_PGS_based_on_SNPs_for_RISK_and_CERTIFI_studies
+PAPER_DATA/IBD Datasets/Gene expression by SNP genotype/IBD_PGS_based_on_SNPs_for_RISK_and_CERTIFI_studies
+PAPER_DATA/IBD Datasets/Macrophagesignatures,PAPER_DATA/IBD Datasets/Macrophagesignatures/MSG_signature.txt,PAPER_DATA/IBD Datasets/Macrophagesignatures/MSS_signature.txt
+PAPER_DATA/IBD Datasets/Macrophagesignatures/MSG_signature.txt
+PAPER_DATA/IBD Datasets/Macrophagesignatures/MSS_signature.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-Lactoferrin-.2+.2.txt,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-FCal.txt,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/MSSMintestinepathscorecorr.txt,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-Lactoferrin2.txt,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/MSH-UCvsCLcolon-DE.txt,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-Diseaseduration.txt,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-CRP.txt,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-FCal-.3+.3.txt,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/MSH-CDvsCLcolon-DE.txt,PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/MSH-CDvsUCcolon-DE.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-Lactoferrin-.2+.2.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-FCal.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/MSSMintestinepathscorecorr.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-Lactoferrin2.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/MSH-UCvsCLcolon-DE.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-Diseaseduration.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-CRP.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/CERTIFI-FCal-.3+.3.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/MSH-CDvsCLcolon-DE.txt
+PAPER_DATA/IBD Datasets/IBDclinicalcorrelationDEsignatures/MSH-CDvsUCcolon-DE.txt
+PAPER_DATA/CERTIFI DNA,PAPER_DATA/CERTIFI DNA/plink.fam,PAPER_DATA/CERTIFI DNA/plink.bed,PAPER_DATA/CERTIFI DNA/plink.bim
+PAPER_DATA/CERTIFI DNA/plink.fam
+PAPER_DATA/CERTIFI DNA/plink.bed
+PAPER_DATA/CERTIFI DNA/plink.bim
+PAPER_DATA/Code,PAPER_DATA/Code/enrichment,PAPER_DATA/Code/PatientDEsignatures,PAPER_DATA/Code/MouseDEsignatures,PAPER_DATA/Code/eQTL,PAPER_DATA/Code/Macrophage,PAPER_DATA/Code/GWASmapandIAMKDG,PAPER_DATA/Code/CREenrich,PAPER_DATA/Code/TF,PAPER_DATA/Code/analysis,PAPER_DATA/Code/Network
+PAPER_DATA/Code/enrichment
+PAPER_DATA/Code/PatientDEsignatures,PAPER_DATA/Code/PatientDEsignatures/ChipAnnotation.RData,PAPER_DATA/Code/PatientDEsignatures/DiffExpAnalysisV2.R,PAPER_DATA/Code/PatientDEsignatures/ProcFxns.R,PAPER_DATA/Code/PatientDEsignatures/BiopsyT26geneExp_wk0.RData,PAPER_DATA/Code/PatientDEsignatures/DiffExpAnalysisV2.RData,PAPER_DATA/Code/PatientDEsignatures/SummarizeResults20160309.R
+PAPER_DATA/Code/PatientDEsignatures/ChipAnnotation.RData
+PAPER_DATA/Code/PatientDEsignatures/DiffExpAnalysisV2.R
+PAPER_DATA/Code/PatientDEsignatures/ProcFxns.R
+PAPER_DATA/Code/PatientDEsignatures/BiopsyT26geneExp_wk0.RData
+PAPER_DATA/Code/PatientDEsignatures/DiffExpAnalysisV2.RData
+PAPER_DATA/Code/PatientDEsignatures/SummarizeResults20160309.R
+PAPER_DATA/Code/MouseDEsignatures,PAPER_DATA/Code/MouseDEsignatures/gene_raw_counts_matrix2,PAPER_DATA/Code/MouseDEsignatures/ensmusg_genesymbol
+PAPER_DATA/Code/MouseDEsignatures/gene_raw_counts_matrix2
+PAPER_DATA/Code/MouseDEsignatures/ensmusg_genesymbol
+PAPER_DATA/Code/eQTL,PAPER_DATA/Code/eQTL/gt,PAPER_DATA/Code/eQTL/adj.gex,PAPER_DATA/Code/eQTL/code,PAPER_DATA/Code/eQTL/input dataset,PAPER_DATA/Code/eQTL/chr14.dose.txt.gz
+PAPER_DATA/Code/eQTL/chr14.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr16.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr8.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr2.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr18.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr9.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr19.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr10.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr13.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr7.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr22.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr17.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr6.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr12.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr21.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr15.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr20.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr1.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr14.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr4.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr11.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr3.dose.txt.gz,PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr5.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr16.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr8.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr2.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr18.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr9.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr19.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr10.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr13.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr7.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr22.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr17.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr6.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr12.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr21.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr15.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr20.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr1.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr14.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr4.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr11.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr3.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/step.5.impute.dose.matrix/chr5.dose.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr2.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr8.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr7.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr20.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr14.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr12.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr19.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr5.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr4.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr22.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr21.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr13.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr1.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr17.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr10.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr6.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr3.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr11.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr16.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr15.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr9.txt.gz,PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr18.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr2.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr8.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr7.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr20.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr14.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr12.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr19.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr5.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr4.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr22.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr21.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr13.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr1.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr17.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr10.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr6.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr3.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr11.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr16.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr15.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr9.txt.gz
+PAPER_DATA/Code/eQTL/gt/eQTL-tools.imputed.SNP.anno/snpspos.chr18.txt.gz
+PAPER_DATA/Code/eQTL/adj.gex,PAPER_DATA/Code/eQTL/adj.gex/obs
+PAPER_DATA/Code/eQTL/adj.gex/obs,PAPER_DATA/Code/eQTL/adj.gex/obs/ucsc.10PC.adj.txt
+PAPER_DATA/Code/eQTL/adj.gex/obs/ucsc.10PC.adj.txt
+PAPER_DATA/Code/eQTL/code,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28.tar.gz,PAPER_DATA/Code/eQTL/code/step.2.merge.peaks.pl,PAPER_DATA/Code/eQTL/code/step.3.fdr.pl,PAPER_DATA/Code/eQTL/code/step.1.1.pickup.sub.eqtl-lm-peaks.pl,PAPER_DATA/Code/eQTL/code/step.4.cut.peak.pl
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28.tar.gz
+PAPER_DATA/Code/eQTL/code/step.2.merge.peaks.pl
+PAPER_DATA/Code/eQTL/code/step.3.fdr.pl
+PAPER_DATA/Code/eQTL/code/step.1.1.pickup.sub.eqtl-lm-peaks.pl
+PAPER_DATA/Code/eQTL/code/step.4.cut.peak.pl
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/examples,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/COPYING,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/generate-example-data,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/kruskal,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/VERSION,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/INSTALL,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/table-subset,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/split-rows,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/Makefile,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-sex,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/eqtl-sex-peaks,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-cis,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-suff,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-fdr,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-sort,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/find-peaks,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/eqtl-lm-peaks,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/cov_pairwise.c
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/COPYING
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/generate-example-data
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/kruskal
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/VERSION
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/INSTALL
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/table-subset
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/split-rows
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/Makefile
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-sex
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/eqtl-sex-peaks
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-cis
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-suff
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-fdr
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/lm-sort
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/find-peaks
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/eqtl-lm-peaks
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/cov_pairwise.c
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/examples,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/examples/README
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/examples/README
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/peaksTestInputAnnotation.tab,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/peaksTestInputData.tab,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/X.small.tab,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/X.ann,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/femalesIDs,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/Y.small.tab,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/Y.ann,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/malesIDs,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/Y.tab,PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/X.tab
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/peaksTestInputAnnotation.tab
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/peaksTestInputData.tab
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/X.small.tab
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/X.ann
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/femalesIDs
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/Y.small.tab
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/Y.ann
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/malesIDs
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/Y.tab
+PAPER_DATA/Code/eQTL/code/eqtl.tools-0.0.28/test/X.tab
+PAPER_DATA/Code/eQTL/input dataset,PAPER_DATA/Code/eQTL/input dataset/Ucsc.annotation.hg19.txt
+PAPER_DATA/Code/eQTL/input dataset/Ucsc.annotation.hg19.txt
+PAPER_DATA/Code/Macrophage,PAPER_DATA/Code/Macrophage/NCKAP1L.R,PAPER_DATA/Code/Macrophage/TNFAIP3_code.R,PAPER_DATA/Code/Macrophage/New_group_May_11_2015.R,PAPER_DATA/Code/Macrophage/GPR65.R,PAPER_DATA/Code/Macrophage/Janssen_R_code_T17_T26.R,PAPER_DATA/Code/Macrophage/ReadMeForPhnotypeCorrelation.R,PAPER_DATA/Code/Macrophage/KD_gene_expression.Rdata,PAPER_DATA/Code/Macrophage/Venn.R,PAPER_DATA/Code/Macrophage/FRP1_code_updated.R,PAPER_DATA/Code/Macrophage/Macrophage_total_code.R,PAPER_DATA/Code/Macrophage/Biopsy.R,PAPER_DATA/Code/Macrophage/LAPTM5.R,PAPER_DATA/Code/Macrophage/example.R,PAPER_DATA/Code/Macrophage/MAFB_code_updated.R,PAPER_DATA/Code/Macrophage/GBP5_code.R,PAPER_DATA/Code/Macrophage/DOK3.R,PAPER_DATA/Code/Macrophage/GBP5.R,PAPER_DATA/Code/Macrophage/LAPTM5_code_updated.R,PAPER_DATA/Code/Macrophage/GPMS3.R,PAPER_DATA/Code/Macrophage/NCKAP1L_code.R,PAPER_DATA/Code/Macrophage/DOK3_code_updated.R,PAPER_DATA/Code/Macrophage/FPR1.R,PAPER_DATA/Code/Macrophage/Total_R.R,PAPER_DATA/Code/Macrophage/GPR65_code.R,PAPER_DATA/Code/Macrophage/R_key.R,PAPER_DATA/Code/Macrophage/NewR.R,PAPER_DATA/Code/Macrophage/Macrophage_0419_2015.R,PAPER_DATA/Code/Macrophage/SLAMF1_code_updated.R,PAPER_DATA/Code/Macrophage/AIF1_code.R,PAPER_DATA/Code/Macrophage/R04262015updated.R,PAPER_DATA/Code/Macrophage/DOCK3.R,PAPER_DATA/Code/Macrophage/workingCode.R,PAPER_DATA/Code/Macrophage/Checking_Code.R,PAPER_DATA/Code/Macrophage/MAFB_code.R,PAPER_DATA/Code/Macrophage/MAFB.R,PAPER_DATA/Code/Macrophage/JanssenKO_1.R,PAPER_DATA/Code/Macrophage/Mapping_aa.R,PAPER_DATA/Code/Macrophage/GPSM3_code_updated.R,PAPER_DATA/Code/Macrophage/TNFAIP3_code_updated.R,PAPER_DATA/Code/Macrophage/GBP5_code_updated.R,PAPER_DATA/Code/Macrophage/TNFAIP3.R,PAPER_DATA/Code/Macrophage/SLAMF1.R,PAPER_DATA/Code/Macrophage/summarySE.R,PAPER_DATA/Code/Macrophage/GPR65_code_updated.R,PAPER_DATA/Code/Macrophage/AIF1_code_updated.R,PAPER_DATA/Code/Macrophage/AIF1.R,PAPER_DATA/Code/Macrophage/LAPTM5_code.R,PAPER_DATA/Code/Macrophage/GPSM3_code.R,PAPER_DATA/Code/Macrophage/Correlation_code.R,PAPER_DATA/Code/Macrophage/New_R_code_May_8_2015.R,PAPER_DATA/Code/Macrophage/NCKAP1L_code_updated.R,PAPER_DATA/Code/Macrophage/DOK3_code.R,PAPER_DATA/Code/Macrophage/SLAMF1_code.R,PAPER_DATA/Code/Macrophage/Blood_Correlation2.R,PAPER_DATA/Code/Macrophage/Summary.R,PAPER_DATA/Code/Macrophage/R04262015.R,PAPER_DATA/Code/Macrophage/FPR1_code.R
+PAPER_DATA/Code/Macrophage/NCKAP1L.R
+PAPER_DATA/Code/Macrophage/TNFAIP3_code.R
+PAPER_DATA/Code/Macrophage/New_group_May_11_2015.R
+PAPER_DATA/Code/Macrophage/GPR65.R
+PAPER_DATA/Code/Macrophage/Janssen_R_code_T17_T26.R
+PAPER_DATA/Code/Macrophage/ReadMeForPhnotypeCorrelation.R
+PAPER_DATA/Code/Macrophage/KD_gene_expression.Rdata
+PAPER_DATA/Code/Macrophage/Venn.R
+PAPER_DATA/Code/Macrophage/FRP1_code_updated.R
+PAPER_DATA/Code/Macrophage/Macrophage_total_code.R
+PAPER_DATA/Code/Macrophage/Biopsy.R
+PAPER_DATA/Code/Macrophage/LAPTM5.R
+PAPER_DATA/Code/Macrophage/example.R
+PAPER_DATA/Code/Macrophage/MAFB_code_updated.R
+PAPER_DATA/Code/Macrophage/GBP5_code.R
+PAPER_DATA/Code/Macrophage/DOK3.R
+PAPER_DATA/Code/Macrophage/GBP5.R
+PAPER_DATA/Code/Macrophage/LAPTM5_code_updated.R
+PAPER_DATA/Code/Macrophage/GPMS3.R
+PAPER_DATA/Code/Macrophage/NCKAP1L_code.R
+PAPER_DATA/Code/Macrophage/DOK3_code_updated.R
+PAPER_DATA/Code/Macrophage/FPR1.R
+PAPER_DATA/Code/Macrophage/Total_R.R
+PAPER_DATA/Code/Macrophage/GPR65_code.R
+PAPER_DATA/Code/Macrophage/R_key.R
+PAPER_DATA/Code/Macrophage/NewR.R
+PAPER_DATA/Code/Macrophage/Macrophage_0419_2015.R
+PAPER_DATA/Code/Macrophage/SLAMF1_code_updated.R
+PAPER_DATA/Code/Macrophage/AIF1_code.R
+PAPER_DATA/Code/Macrophage/R04262015updated.R
+PAPER_DATA/Code/Macrophage/DOCK3.R
+PAPER_DATA/Code/Macrophage/workingCode.R
+PAPER_DATA/Code/Macrophage/Checking_Code.R
+PAPER_DATA/Code/Macrophage/MAFB_code.R
+PAPER_DATA/Code/Macrophage/MAFB.R
+PAPER_DATA/Code/Macrophage/JanssenKO_1.R
+PAPER_DATA/Code/Macrophage/Mapping_aa.R
+PAPER_DATA/Code/Macrophage/GPSM3_code_updated.R
+PAPER_DATA/Code/Macrophage/TNFAIP3_code_updated.R
+PAPER_DATA/Code/Macrophage/GBP5_code_updated.R
+PAPER_DATA/Code/Macrophage/TNFAIP3.R
+PAPER_DATA/Code/Macrophage/SLAMF1.R
+PAPER_DATA/Code/Macrophage/summarySE.R
+PAPER_DATA/Code/Macrophage/GPR65_code_updated.R
+PAPER_DATA/Code/Macrophage/AIF1_code_updated.R
+PAPER_DATA/Code/Macrophage/AIF1.R
+PAPER_DATA/Code/Macrophage/LAPTM5_code.R
+PAPER_DATA/Code/Macrophage/GPSM3_code.R
+PAPER_DATA/Code/Macrophage/Correlation_code.R
+PAPER_DATA/Code/Macrophage/New_R_code_May_8_2015.R
+PAPER_DATA/Code/Macrophage/NCKAP1L_code_updated.R
+PAPER_DATA/Code/Macrophage/DOK3_code.R
+PAPER_DATA/Code/Macrophage/SLAMF1_code.R
+PAPER_DATA/Code/Macrophage/Blood_Correlation2.R
+PAPER_DATA/Code/Macrophage/Summary.R
+PAPER_DATA/Code/Macrophage/R04262015.R
+PAPER_DATA/Code/Macrophage/FPR1_code.R
+PAPER_DATA/Code/GWASmapandIAMKDG,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 3 (project CIC IBD networks derived from core IAM onto intestinal BNs to identify key drivers).R,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4.2 (computing overlaps between the KDG KO signatures and mac RNAi KD signatures and the mac specific cell signatures).R,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4.4 (identify genes in the IBD networks that are least likely to be KDGs).R,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4 (final ranking).R,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 5 (form the macrophage component of the IBD network).R,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4.3 (compute mean rank per trait across IBD networks).R,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 1 generate core IAM module.R,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4.1 (modifying core IAM based on final ranking to recompute starting with step 2).R,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 1b (project IBD signatures onto coexpression networks to assess enrichments of tagged modules).R,PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 2 (project core -- combo -- IAM module onto intestinal BNs to get IBD CIC networks).R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 3 (project CIC IBD networks derived from core IAM onto intestinal BNs to identify key drivers).R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4.2 (computing overlaps between the KDG KO signatures and mac RNAi KD signatures and the mac specific cell signatures).R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4.4 (identify genes in the IBD networks that are least likely to be KDGs).R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4 (final ranking).R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 5 (form the macrophage component of the IBD network).R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4.3 (compute mean rank per trait across IBD networks).R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 1 generate core IAM module.R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 4.1 (modifying core IAM based on final ranking to recompute starting with step 2).R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 1b (project IBD signatures onto coexpression networks to assess enrichments of tagged modules).R
+PAPER_DATA/Code/GWASmapandIAMKDG/KDG pipeline in steps/step 2 (project core -- combo -- IAM module onto intestinal BNs to get IBD CIC networks).R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (CD4 T Cell Set).R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (Myeloid Set).R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (Digestive Set).R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/CD4Generate overlap between cres-gwas overlaps and eqtl genes.R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/NKcellsgenerate overlap between cres-gwas overlaps and eqtl genes.R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/myeloid generate overlap between cres-gwas overlaps and eqtl genes.R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/generate overlap between cres-gwas overlaps and eqtl genes.Bcell.R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/link eqtl and gwas snps to ibd genes (1).R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/CD8Tcell.generate overlap between cres-gwas overlaps and eqtl genes.R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (CD8 T Cell Set).R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps NK Cell Set).R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (B Cell Set).R,PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Digestive-Assemble CRE and GWAS sets of interest and generate overlaps (Digestive Set).R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (CD4 T Cell Set).R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (Myeloid Set).R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (Digestive Set).R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/CD4Generate overlap between cres-gwas overlaps and eqtl genes.R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/NKcellsgenerate overlap between cres-gwas overlaps and eqtl genes.R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/myeloid generate overlap between cres-gwas overlaps and eqtl genes.R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/generate overlap between cres-gwas overlaps and eqtl genes.Bcell.R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/link eqtl and gwas snps to ibd genes (1).R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/CD8Tcell.generate overlap between cres-gwas overlaps and eqtl genes.R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (CD8 T Cell Set).R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps NK Cell Set).R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Assemble CRE and GWAS sets of interest and generate overlaps (B Cell Set).R
+PAPER_DATA/Code/GWASmapandIAMKDG/GWASmapandenrich/Digestive-Assemble CRE and GWAS sets of interest and generate overlaps (Digestive Set).R
+PAPER_DATA/Code/CREenrich,PAPER_DATA/Code/CREenrich/CES.R.txt,PAPER_DATA/Code/CREenrich/db.Rdata,PAPER_DATA/Code/CREenrich/.Rhistory,PAPER_DATA/Code/CREenrich/CRE.tsv
+PAPER_DATA/Code/CREenrich/CES.R.txt
+PAPER_DATA/Code/CREenrich/db.Rdata
+PAPER_DATA/Code/CREenrich/.Rhistory
+PAPER_DATA/Code/CREenrich/CRE.tsv
+PAPER_DATA/Code/TF,PAPER_DATA/Code/TF/main_TFA.R,PAPER_DATA/Code/TF/Run_InferTFA_Public.R,PAPER_DATA/Code/TF/GetOptimalWindowandActivity_Core_Public.R
+PAPER_DATA/Code/TF/main_TFA.R
+PAPER_DATA/Code/TF/Run_InferTFA_Public.R
+PAPER_DATA/Code/TF/GetOptimalWindowandActivity_Core_Public.R
+PAPER_DATA/Code/analysis
+PAPER_DATA/Code/Network,PAPER_DATA/Code/Network/co-expression network,PAPER_DATA/Code/Network/codeforenrichmenttable.R
+PAPER_DATA/Code/Network/codeforenrichmenttable.R
+PAPER_DATA/Code/Network/co-expression network,PAPER_DATA/Code/Network/co-expression network/RUN_KDA.R,PAPER_DATA/Code/Network/co-expression network/Curate_Signature.R,PAPER_DATA/Code/Network/co-expression network/DEG.curated.RData,PAPER_DATA/Code/Network/co-expression network/R_functions.R
+PAPER_DATA/Code/Network/co-expression network/RUN_KDA.R
+PAPER_DATA/Code/Network/co-expression network/Curate_Signature.R
+PAPER_DATA/Code/Network/co-expression network/DEG.curated.RData
+PAPER_DATA/Code/Network/co-expression network/R_functions.R
